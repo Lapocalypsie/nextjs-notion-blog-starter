@@ -7,10 +7,10 @@ const siteData = {
   footerText: '© All rights reserved',
   language: 'fr-FR',
   locale: 'fr-FR',
-  ogBanner: 'https://nextjs-notion-blog-starter.vercel.app/preview/1.jpg',
+  ogBanner: 'https://blog.jimmy-rasolosoa.com/preview/1.jpg',
   github: 'https://github.com/Lapocalypsie',
   twitter: 'https://x.com/',
-  websiteUrl: 'https://jimmy-rasolosoa.vercel.app/',
+  websiteUrl: 'https://jimmy-rasolosoa.com/',
   linkedin: 'https://www.linkedin.com/in/jimmy-rasolosoa/'
 };
 
