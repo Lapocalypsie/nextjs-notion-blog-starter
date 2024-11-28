@@ -8,6 +8,8 @@ export function MetaHead(props) {
 
   return (
     <Head>
+      <meta name="google-adsense-account" content="ca-pub-1459536949152630" />
+
       <title>{titleName}</title>
       <meta name="robots" content="follow, index" />
       <meta content={description || titleName} name="description" />
